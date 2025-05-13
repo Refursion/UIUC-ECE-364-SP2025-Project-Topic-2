@@ -1,0 +1,7 @@
+{
+    "lr": 2.5e-05,
+    "head_lr": 0.001,
+    "num_epochs": 20,
+    "save_interval": 4,
+    "unfreeze_every": 4
+}
